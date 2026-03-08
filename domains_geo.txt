@@ -5,3 +5,4 @@ intercom.io
 
 theinformation.com
 imgix.net
+stripe.com
