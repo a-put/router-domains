@@ -2,3 +2,6 @@ anthropic.com
 claude.com
 intercomcdn.com
 intercom.io
+
+theinformation.com
+imgix.net
