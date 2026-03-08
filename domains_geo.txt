@@ -1,1 +1,3 @@
 gomovies.ms
+cloudflare.com
+anthropic.com
