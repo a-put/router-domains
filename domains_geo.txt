@@ -6,3 +6,13 @@ intercom.io
 theinformation.com
 imgix.net
 stripe.com
+
+accounts.google.com
+appleid.cdn-apple.com
+cdn.cookielaw.org
+cdn.rollbar.com
+cdn.segment.com
+challenges.cloudflare.com
+js.stripe.com
+maxcdn.bootstrapcdn.com
+public.profitwell.com 
