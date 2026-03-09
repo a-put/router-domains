@@ -37,3 +37,9 @@ www.bbc.co.uk
 
 clawhub.ai
 avatars.githubusercontent.com
+
+colonist.io
+cdn.colonist.io
+cdn.jsdelivr.net
+o243092.ingest.sentry.io
+
