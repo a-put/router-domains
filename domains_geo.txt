@@ -34,3 +34,6 @@ mybbc-analytics.files.bbci.co.uk
 static.bbci.co.uk
 static.files.bbci.co.uk
 www.bbc.co.uk
+
+clawhub.ai
+avatars.githubusercontent.com
