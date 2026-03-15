@@ -43,3 +43,5 @@ cdn.colonist.io
 cdn.jsdelivr.net
 o243092.ingest.sentry.io
 
+imgeditor.co
+plau.origai.net
