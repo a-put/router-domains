@@ -45,3 +45,13 @@ o243092.ingest.sentry.io
 
 imgeditor.co
 plau.origai.net
+
+newyorker.com
+cdn.gladly.com
+cdnjs.cloudflare.com
+fides.condenastdigital.com
+globalservices.conde.digital
+martech.condenastdigital.com
+media.newyorker.com
+privacy.condenastdigital.com	
+variants.conde.digital
