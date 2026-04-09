@@ -55,3 +55,10 @@ martech.condenastdigital.com
 media.newyorker.com
 privacy.condenastdigital.com	
 variants.conde.digital
+api.avo.app
+audio-assets.cnevids.com
+embed-audio.cnevids.com
+graphql.condenast.io
+player.cnevids.com
+
+
